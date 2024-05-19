@@ -1,0 +1,7 @@
+#spring:
+#  data:
+#    mongodb:
+#      uri: mongodb+srv://srushtinandal29:lovedance2910@cluster0.m77fkyc.mongodb.net/test
+#      database: journadb
+#      auto-index-creation: true
+
